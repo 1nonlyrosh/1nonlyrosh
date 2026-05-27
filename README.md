@@ -30,6 +30,6 @@
   <img src="YOUR_BANNER_URL_HERE" width="100%" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=600&lines=CUDA+Learner;CP+Enthusiast;Linux+%26+Vim+User)](https://git.io/typing-svg)
+[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=600&lines=CUDA+Learner;CP+Enthusiast;Linux+%26+Vim+User)](https://git.io/typing-svg](https://chatgpt.com/s/m_6a1720eaa3a48191bd5d4676b3022c95))
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,cuda,linux,vim,git,bash,docker,cmake)](https://skillicons.dev)
