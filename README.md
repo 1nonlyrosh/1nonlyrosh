@@ -59,11 +59,11 @@ roshan = {
 <div align="center">
 
 <a href="https://github.com/1nonlyrosh/c-programming-journey">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=1nonlyrosh&repo=c-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1nonlyrosh&repo=c-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 &nbsp;
 <a href="https://github.com/1nonlyrosh/r-programming-journey">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=1nonlyrosh&repo=r-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1nonlyrosh&repo=r-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
