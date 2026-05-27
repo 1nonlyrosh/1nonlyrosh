@@ -59,11 +59,11 @@ roshan = {
 <div align="center">
 
 <a href="https://github.com/1nonlyrosh/c-programming-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1nonlyrosh&repo=c-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=1nonlyrosh&repo=c-programming-journey&theme=tokyonight&hide_border=true" />
 </a>
-&nbsp;
+
 <a href="https://github.com/1nonlyrosh/r-programming-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1nonlyrosh&repo=r-programming-journey&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=1nonlyrosh&repo=r-programming-journey&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -74,21 +74,15 @@ roshan = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1nonlyrosh&theme=tokyonight&hide_border=true&border_radius=10" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1nonlyrosh&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1nonlyrosh&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=1nonlyrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1nonlyrosh&theme=tokyonight" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=1nonlyrosh&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nonlyrosh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 
 </div>
 
