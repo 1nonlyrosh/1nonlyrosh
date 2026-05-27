@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/5a31a38a-72c5-4140-b1fa-331fcd2bffc2" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/685c5626-c9cf-4a18-90a9-282a98fd20a5" />
 
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Exploring ML
 - Exploring CUDA and GPU computing
@@ -21,7 +21,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```txt
 > C / C++
@@ -40,7 +40,7 @@
 
 ---
 
-## 📌 Featured Repositories
+## Featured Repositories
 
 <div align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1nonlyrosh&theme=tokyo-night&hide_border=true" />
@@ -76,7 +76,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/1nonlyrosh">
