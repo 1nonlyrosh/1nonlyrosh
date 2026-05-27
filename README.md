@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=620&lines=C%2B%2B+%2B+CUDA+%2B+Linux;Competitive+Programming;Vim+Workflow;AI+Systems+Learning](https://chatgpt.com/s/m_6a1720eaa3a48191bd5d4676b3022c95)" />
+  <img src="[[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=620&lines=C%2B%2B+%2B+CUDA+%2B+Linux;Competitive+Programming;Vim+Workflow;AI+Systems+Learning](https://chatgpt.com/s/m_6a1720eaa3a48191bd5d4676b3022c95)](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=620&lines=C%2B%2B+%2B+CUDA+%2B+Linux;Competitive+Programming;Vim+Workflow;AI+Systems+Learning)" />
 </div>
 
 ## about me
