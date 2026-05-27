@@ -1,6 +1,4 @@
-<div align="center">
- <div<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/6eb09bbc-9f2a-481e-9647-ba907152614b" />
-</div>
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/5a31a38a-72c5-4140-b1fa-331fcd2bffc2" />
 
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
