@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://chatgpt.com/s/m_6a1720eaa3a48191bd5d4676b3022c95" width="100%" alt="banner"/>
+  <img src="https://canva.link/c7jovjr78v667db" width="100%" alt="banner"/>
 </div>
 
 <h1 align="center">Hey, I'm Roshan 👋</h1>
 
 <p align="center">
-  <i>systems-minded learner • cp • linux • vim • cuda</i>
+  <i>• ml • systems-minded learner • linux </i>
 </p>
 
 <p align="center">
@@ -16,9 +16,8 @@
 
 ## 🚀 About Me
 
-- Learning low-level programming and systems
+- Exploring ML
 - Exploring CUDA and GPU computing
-- Interested in competitive programming
 - Linux + terminal workflow enthusiast
 - Building strong CS fundamentals
 
@@ -28,7 +27,6 @@
 
 ```txt
 > C / C++
-> DSA & Competitive Programming
 > CUDA & GPU Computing
 > Linux + Vim
 > Systems Programming
@@ -87,11 +85,11 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/roshankhengare/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:yourmail@example.com">
+  <a href="roshankhengare456@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -103,6 +101,7 @@
 ```txt
 Progress is progress.
 No matter how small.
+No matter what they, 2016 was the peak.
 ```
 
 </div>
