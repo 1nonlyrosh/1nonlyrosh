@@ -99,7 +99,7 @@
 ```txt
 Progress is progress.
 No matter how small.
-No matter what they, 2016 was the peak.
+No matter what they say, 2016 was the peak.
 ```
 
 </div>
