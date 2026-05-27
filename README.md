@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=650&lines=C+%2F+C%2B%2B+Programming;Learning+CUDA+and+GPU+Computing;Machine Learning;Linux+Workflow;Exploring+Systems+Programming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=7CFF6B&center=true&vCenter=true&width=650&lines=C+%2F+C%2B%2B+Programming;Learning+CUDA+and+GPU+Computing;Machine+Learning;Linux+Workflow;Exploring+Systems+Programming" alt="Typing SVG" />
 </p>
 
 ---
