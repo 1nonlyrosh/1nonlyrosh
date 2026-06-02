@@ -38,17 +38,6 @@ roshan = {
 
 ---
 
-## 🎯 Current Focus
-
-```txt
-  ██ C / C++              ████████████████░░░░  80%
-  ██ CUDA & GPU           ██████████░░░░░░░░░░  50%
-  ██ Machine Learning     ████████████░░░░░░░░  60%
-  ██ Linux & Systems      ████████████████████  85%
-```
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
