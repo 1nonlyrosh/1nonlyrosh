@@ -1,7 +1,15 @@
 <div align="center">
+<!-- Photo Banner -->
+  <img width="1920" height="1280" alt="11" src="https://github.com/user-attachments/assets/d2cff040-f604-4db9-b673-85d5782e7326" />
 
-<!-- Banner / Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e3a5f,100=7CFF6B&height=120&section=header" />
+<img width="100%" height="220px"
+     src="assets/banner.jpg"
+     style="object-fit:cover; object-position:center top; border-radius:0 0 12px 12px;"
+     alt="Banner" />
+
+<!-- Wave beneath it -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e3a5f,100=7CFF6B&height=80&section=header" />
+
 
 <h1>Hey, I'm Roshan 👋</h1>
 
