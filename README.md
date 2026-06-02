@@ -1,12 +1,6 @@
 <div align="center">
-<!-- Photo Banner -->
+<img width="1436" height="459" alt="Screenshot 2026-06-02 124303" src="https://github.com/user-attachments/assets/6fe56432-d79a-41b9-adfd-788a99c5eaa2" />
 
-
-<img width="100%" height="220px"
-     src="<img width="1436" height="459" alt="Screenshot 2026-06-02 124303" src="https://github.com/user-attachments/assets/daf2d7c5-2b7c-487c-81ec-86cebaf9ddab" />
-"
-     style="object-fit:cover; object-position:center top; border-radius:0 0 12px 12px;"
-     alt="Banner" />
 
 <!-- Wave beneath it -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e3a5f,100=7CFF6B&height=80&section=header" />
