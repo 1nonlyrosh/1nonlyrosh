@@ -9,7 +9,7 @@
 <h1>Hey, I'm Roshan 👋</h1>
 
 <p>
-  <i>ml enthusiast &nbsp;•&nbsp; systems-minded learner &nbsp;•&nbsp; linux devotee</i>
+  <i>ml enthusiast &nbsp;•&nbsp; systems-minded learner &nbsp</i>
 </p>
 
 <p>
