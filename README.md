@@ -1,10 +1,10 @@
 <div align="center">
 <!-- Photo Banner -->
- <img width="1015" height="480" alt="1732013295039" src="https://github.com/user-attachments/assets/4d160992-e3c0-4cf2-9401-8cb21f9efa1f" />
 
 
 <img width="100%" height="220px"
-     src="assets/banner.jpg"
+     src="<img width="1436" height="459" alt="Screenshot 2026-06-02 124303" src="https://github.com/user-attachments/assets/daf2d7c5-2b7c-487c-81ec-86cebaf9ddab" />
+"
      style="object-fit:cover; object-position:center top; border-radius:0 0 12px 12px;"
      alt="Banner" />
 
