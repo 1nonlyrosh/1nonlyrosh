@@ -1,6 +1,7 @@
 <div align="center">
 <!-- Photo Banner -->
-  <img width="1920" height="1280" alt="11" src="https://github.com/user-attachments/assets/d2cff040-f604-4db9-b673-85d5782e7326" />
+ <img width="1015" height="480" alt="1732013295039" src="https://github.com/user-attachments/assets/4d160992-e3c0-4cf2-9401-8cb21f9efa1f" />
+
 
 <img width="100%" height="220px"
      src="assets/banner.jpg"
