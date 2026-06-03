@@ -68,10 +68,6 @@ roshan = {
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=1nonlyrosh&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1nonlyrosh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 </div>
 
