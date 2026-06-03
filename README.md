@@ -64,7 +64,6 @@ roshan = {
 
 ## 📊 GitHub Stats
 <div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1nonlyrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 &nbsp;
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1nonlyrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&include_all_commits=true" />
 &nbsp;
