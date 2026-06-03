@@ -64,11 +64,13 @@ roshan = {
 
 ## 📊 GitHub Stats
 <div align="center">
-&nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1nonlyrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&include_all_commits=true" />
-&nbsp;
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=1nonlyrosh&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=1nonlyrosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" />
 </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=1nonlyrosh&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1nonlyrosh&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 </div>
