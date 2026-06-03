@@ -6,7 +6,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e3a5f,100=7CFF6B&height=80&section=header" />
 
 
-<h1>Hey, I'm Roshan 🙂‍↔️</h1>
+<h1>Hey, I'm Roshan </h1>
 
 <p>
   <i>ml enthusiast &nbsp;•&nbsp; systems-minded learner &nbsp</i>
